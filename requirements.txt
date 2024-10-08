@@ -1,6 +1,6 @@
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
 fpdf
 streamlit
